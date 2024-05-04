@@ -1,0 +1,23 @@
+- Référencement du site ????
+
+- Ajouter projet grandir aventure
+- Ajouter design d'experience user flow Hello Fresh
+- Réseaux sociaux a revoir ouverture/fermeture
+- images domaines expertises et responsive
+- texte expertise
+- bug dark/light mode
+- liste mention légale animation bouton plus
+
+------------------------
+
+- Hasher l'url php
+- champ converver les données pour être recontacter pdt durée légal button radio form
+- compression des images / optimisation générale
+
+
+- captcha (anti spam)
+- Gerer la securité (accès aux fichiers, données etc...)
+- Recevoir l'entrée formulaire par e-mail
+- Ajouter piece jointe = champ document pour téléverser
+- cookies 
+
